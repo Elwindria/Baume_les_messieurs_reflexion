@@ -21,3 +21,19 @@ Il existe un site du village : http://www.baumelesmessieurs.fr/
 Mais le village est référencé sur de nombreux autres sites touristique comme "Cités de caractère" : https://www.cites-caractere-bfc.fr/__Cite/fiche.asp?idModele=4 
 
 #### Arborescence du site 
+Le site se presentera sous la forme d'un "one page". La page sera découpée en différentes sections. 
+
+* Header
+    * Logo 
+    * Barre de navigation
+
+* Acceuil
+    * Accroche
+    * Découverte 
+        * Abbaye
+        * Grotte
+        * Reculée
+        * Cascades
+    * Agenda
+* Footer
+    * Formulaire de contact
