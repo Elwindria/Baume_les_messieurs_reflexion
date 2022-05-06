@@ -46,7 +46,7 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 
 * Galerie photo
     * vidéo présentation youtube
-    
+
 * Footer
     * contact
     * Réseaux socials
@@ -58,4 +58,7 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 * Galerie
 * carte google
 * Newsletter
+
+### #A.3 : Planche de tendance
+* [Lien vers projet Figma](https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=0%3A1)
 
