@@ -45,10 +45,12 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
     * contact
     * Réseaux socials
     * carte google
+    * Newsletter
     * Labels multiples
 
 #### Description fonctionnelle
 * Menu
 * Galerie
 * carte google
+* Newsletter
 
