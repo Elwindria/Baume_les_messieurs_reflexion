@@ -45,7 +45,7 @@ Réaliser la conception d’un site web, d’une interface d’administration et
 #### Itération #A.4 : Design System
 * Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les personnes impliquées où qui le seront à l’avenir.
 * Définir la charte graphique comme l’exemple ci-dessous
-![](README_images/design_system.png)
+* ![](README_images/design_system.png)
 
 #### Itération #A.5 : Maquetter le Header
 * Créer la maquette graphique du header de votre page web en choisissant parmi les 2 zoning proposés :
