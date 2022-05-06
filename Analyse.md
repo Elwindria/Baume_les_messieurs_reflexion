@@ -26,25 +26,30 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 * Header
     * Logo 
     * Barre de navigation
-
+    
 * Acceuil
     * Accroche
+
 * Découverte 
     * Abbaye
     * Grotte
     * Reculée
     * Cascades
+
 * Contact
     * Mairie
     * Office du Tourisme
     * Abbaye
     * Hebergement
+
+* carte google
+
 * Galerie photo
     * vidéo présentation youtube
+    
 * Footer
     * contact
     * Réseaux socials
-    * carte google
     * Newsletter
     * Labels multiples
 
