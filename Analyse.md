@@ -62,3 +62,8 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 ### #A.3 : Planche de tendance
 * [Lien vers projet Figma](https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=0%3A1)
 
+### #A.4 : Design System
+* [Lien vers projet Figma] (https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=14%3A2)
+
+### #A.5 : Maquetter le Header
+* [Lien vers projet Figma] (https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=17%3A227)
