@@ -27,7 +27,7 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
     * Logo 
     * Barre de navigation
     
-* Acceuil
+* Accueil
     * Accroche
 
 * Découverte 
@@ -36,6 +36,9 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
     * Reculée
     * Cascades
 
+* Galerie photo
+    * vidéo présentation youtube
+
 * Contact
     * Mairie
     * Office du Tourisme
@@ -43,9 +46,6 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
     * Hebergement
 
 * carte google
-
-* Galerie photo
-    * vidéo présentation youtube
 
 * Footer
     * contact
