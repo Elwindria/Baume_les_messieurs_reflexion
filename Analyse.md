@@ -24,20 +24,17 @@ Mais le village est référencé sur de nombreux autres sites touristique comme 
 Le site se presentera sous la forme d'un "one page". La page sera découpée en différentes sections. 
 
 * Header
-    * Logo 
-    * Barre de navigation
+    * Accroche
     
 * Accueil
     * Accroche
+    * Description
 
 * Découverte 
     * Abbaye
     * Grotte
-    * Reculée
     * Cascades
-
-* Galerie photo
-    * vidéo présentation youtube
+    * Reculée
 
 * Contact
     * Mairie
@@ -47,11 +44,12 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 
 * carte google
 
+* Galerie photo
+    * vidéo présentation youtube
+
 * Footer
-    * contact
     * Réseaux socials
     * Newsletter
-    * Labels multiples
 
 #### Description fonctionnelle
 * Menu
