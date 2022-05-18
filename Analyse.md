@@ -65,3 +65,6 @@ Le site se presentera sous la forme d'un "one page". La page sera découpée en 
 
 ### #A.5 : Maquetter le Header
 * [Lien vers projet Figma] (https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=17%3A227)
+
+### #A.6 : Responsive
+* [Lien vers projet Figma] (https://www.figma.com/file/uSjQ9llIUAWKMkpAnaQBoK/Baume-les-Messieurs?node-id=60%3A11)
